@@ -72,7 +72,7 @@ const ContactForm = () => {
           <div className="text-xl flex items-center">
             <i className="fas fa-envelope text-blue-500 mr-4 fa-2x"></i>
             <a href="mailto:info@mcb-solutions.com" className="text-blue-500">
-              info@mcb-solutions.com
+              Info@tstechgeeks.us
             </a>
           </div>
           <div className="mt-5">Contact us for more information.</div>
