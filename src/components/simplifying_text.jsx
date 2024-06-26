@@ -1,5 +1,3 @@
-import React from "react";
-
 const SimplifyingText = () => {
   return (
     <div className="container mx-auto px-4 py-4 justify-center text-center mt-5 mb-5">

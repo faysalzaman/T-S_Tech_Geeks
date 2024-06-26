@@ -1,12 +1,12 @@
 // Import your logo images
-import hpLogo from "/src/assets/hp.png";
-import lenovoLogo from "/src/assets/lenovo.png";
-import vmwareLogo from "/src/assets/vmware.webp";
-import dellLogo from "/src/assets/dell.png";
-import microsoftLogo from "/src/assets/microsoft.png";
-import mitelLogo from "/src/assets/mitel.png";
-import intelLogo from "/src/assets/intel.png";
-import mikrotikLogo from "/src/assets/mikrotik.png";
+import hpLogo from "../../assets/hp.png";
+import lenovoLogo from "../../assets/lenovo.png";
+import vmwareLogo from "../../assets/vmware.webp";
+import dellLogo from "../../assets/dell.png";
+import microsoftLogo from "../../assets/microsoft.png";
+import mitelLogo from "../../assets/mitel.png";
+import intelLogo from "../../assets/intel.png";
+import mikrotikLogo from "../../assets/mikrotik.png";
 
 const PartnerLogos = () => {
   return (
