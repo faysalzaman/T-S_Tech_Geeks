@@ -13,6 +13,7 @@ import IntroSection from "./components/intro_section.jsx";
 import MeetSolution from "./components/meet_solution.jsx";
 import PartnerLogos from "./components/partner_logo.jsx";
 import PartnerText from "./components/partner_text.jsx";
+import AllRightReserved from "./components/all_right_reserved.jsx";
 
 const features = [
   {
@@ -65,6 +66,7 @@ function App() {
       <PartnerText />
       <PartnerLogos />
       <ContactForm />
+      <AllRightReserved />
     </div>
   );
 }
