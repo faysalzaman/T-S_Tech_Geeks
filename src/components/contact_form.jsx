@@ -57,20 +57,20 @@ const ContactForm = () => {
         <h2 className="text-4xl font-bold mb-6">Contact Us</h2>
         <div className="text-xl mb-6">
           <div className="text-xl flex items-center mb-4">
-            <i className="fas fa-map-marker-alt text-blue-500 mr-4"></i>
+            <i className="fas fa-map-marker-alt text-blue-500 mr-4 fa-2x"></i>
             <span>
               <span className="font-bold">927 NW 130TH Ter,</span>
               <br></br>Sunrise, Florida 33325
             </span>
           </div>
           <div className="text-xl flex items-center mb-4">
-            <i className="fas fa-mobile-alt text-blue-500 mr-4 "></i>
+            <i className="fas fa-mobile-alt text-blue-500 mr-4 fa-2x"></i>
             <a href="tel:+16504885152" className="text-blue-500">
               <span className="font-bold">(650) 488-5152</span>
             </a>
           </div>
           <div className="text-xl flex items-center">
-            <i className="fas fa-envelope text-blue-500 mr-4"></i>
+            <i className="fas fa-envelope text-blue-500 mr-4 fa-2x"></i>
             <a href="mailto:info@mcb-solutions.com" className="text-blue-500">
               info@mcb-solutions.com
             </a>
