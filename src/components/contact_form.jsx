@@ -48,7 +48,7 @@ const ContactForm = () => {
     <div className="flex flex-col md:flex-row items-center justify-center min-h-screen bg-gray-100 p-4">
       <div className="w-full md:w-1/3 bg-white rounded-lg shadow-lg h-[60vh] mb-4 md:mb-0 md:ml-20 md:mr-10 relative">
         <img
-          src="../../assets/mac.png"
+          src="https://res.cloudinary.com/dqph3qip7/image/upload/v1719431598/ts_geeks/table.png"
           alt="Contact"
           className="w-full h-full object-cover rounded-lg shadow-lg"
         />
