@@ -9,7 +9,7 @@ const MeetSolution = () => {
         style={{ height: "100vh" }}
       >
         <img
-          src="../../assets/table.png"
+          src="https://res.cloudinary.com/dqph3qip7/image/upload/v1719431592/ts_geeks/table.png"
           alt="Intro"
           className="w-full h-full object-cover"
         />

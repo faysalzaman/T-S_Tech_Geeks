@@ -1,12 +1,12 @@
 // Import your logo images
-import hpLogo from "../../assets/hp.png";
-import lenovoLogo from "../../assets/lenovo.png";
-import vmwareLogo from "../../assets/vmware.png";
-import dellLogo from "../../assets/dell.png";
-import microsoftLogo from "../../assets/microsoft.png";
-import mitelLogo from "../../assets/mitel.png";
-import intelLogo from "../../assets/intel.png";
-import mikrotikLogo from "../../assets/mikrotik.png";
+import hpLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/hp.png";
+import lenovoLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/lenovo.png";
+import vmwareLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/vmware.png";
+import dellLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/dell.png";
+import microsoftLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/mircosoft.png";
+import mitelLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/mitel.png";
+import intelLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/intel.png";
+import mikrotikLogo from "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/mikrotik.png";
 
 const PartnerLogos = () => {
   return (

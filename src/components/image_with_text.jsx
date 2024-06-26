@@ -3,7 +3,7 @@ const ImageWithText = () => {
   return (
     <div className="relative w-full h-auto">
       <img
-        src="../../assets/header_image.png"
+        src="https://res.cloudinary.com/dqph3qip7/image/upload/v1719431588/ts_geeks/engine.png"
         alt="Description"
         className="w-full h-full object-cover"
       />
