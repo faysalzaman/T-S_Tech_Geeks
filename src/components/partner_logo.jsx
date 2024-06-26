@@ -10,7 +10,7 @@ const PartnerLogos = () => {
   let dellLogo =
     "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/dell.png";
   let microsoftLogo =
-    "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/mircosoft.png";
+    "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431540/ts_geeks/microsoft.png";
   let mitelLogo =
     "https://res.cloudinary.com/dqph3qip7/image/upload/v1719431537/ts_geeks/mitel.png";
   let intelLogo =
