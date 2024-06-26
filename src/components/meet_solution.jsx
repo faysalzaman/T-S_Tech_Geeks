@@ -9,7 +9,7 @@ const MeetSolution = () => {
         style={{ height: "100vh" }}
       >
         <img
-          src="../../assets/table.jpg"
+          src="../../assets/table.png"
           alt="Intro"
           className="w-full h-full object-cover"
         />

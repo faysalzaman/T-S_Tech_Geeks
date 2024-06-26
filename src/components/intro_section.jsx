@@ -18,7 +18,7 @@ const IntroSection = () => {
       </div>
       <div className="w-full h-full ">
         <img
-          src="../../assets/data.jpg"
+          src="../../assets/data.png"
           alt="Intro"
           className="w-full h-full object-cover"
         />

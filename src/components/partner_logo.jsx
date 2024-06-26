@@ -1,7 +1,7 @@
 // Import your logo images
 import hpLogo from "../../assets/hp.png";
 import lenovoLogo from "../../assets/lenovo.png";
-import vmwareLogo from "../../assets/vmware.webp";
+import vmwareLogo from "../../assets/vmware.png";
 import dellLogo from "../../assets/dell.png";
 import microsoftLogo from "../../assets/microsoft.png";
 import mitelLogo from "../../assets/mitel.png";

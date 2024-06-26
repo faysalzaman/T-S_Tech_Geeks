@@ -3,7 +3,7 @@ const ImageWithText = () => {
   return (
     <div className="relative w-full h-auto">
       <img
-        src="../../assets/header_image.jpeg"
+        src="../../assets/header_image.png"
         alt="Description"
         className="w-full h-full object-cover"
       />
