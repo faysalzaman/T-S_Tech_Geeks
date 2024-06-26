@@ -22,10 +22,10 @@ const ContactForm = () => {
 
     emailjs
       .send(
-        "service_ju30anp",
-        "template_gvhgecf",
+        "service_udy2ybw",
+        "template_ilw9iiw",
         formData,
-        "N1iPhgYqXmL6VRgcx"
+        "zzBSTr3IC2SvPK1f8"
       )
       .then(
         (result) => {
