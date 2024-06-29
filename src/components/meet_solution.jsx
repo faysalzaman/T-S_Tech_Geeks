@@ -1,6 +1,3 @@
-/* eslint-disable no-unused-vars */
-import React from "react";
-
 const MeetSolution = () => {
   return (
     <div className="flex flex-col md:flex-row items-center min-h-screen bg-white">

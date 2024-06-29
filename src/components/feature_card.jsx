@@ -1,8 +1,5 @@
 /* eslint-disable react/prop-types */
 /* eslint-disable no-unused-vars */
-
-import React from "react";
-
 const FeatureCard = ({ icon, title, description }) => {
   return (
     <div className="flex flex-col items-center text-center p-4">
