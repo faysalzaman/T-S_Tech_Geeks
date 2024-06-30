@@ -6,7 +6,8 @@ const IntroSection = () => {
         style={{ height: "100vh" }}
       >
         <h1 className="text-3xl md:text-5xl font-bold text-black mb-10">
-          T&S Tech Geeks
+          {/* T&S Tech Geeks */}
+          Faysal Zaman
         </h1>
         <h2 className="text-xl md:text-2xl text-black mb-10">
           Delivering peace of mind and confidence.
