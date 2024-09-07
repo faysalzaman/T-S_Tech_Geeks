@@ -20,7 +20,7 @@ const MeetSolution = () => {
         </h1>
         <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl mb-10">
           Experience peace of mind and confidence in your IT infrastructure with
-          T&S Tech Geeks.
+          TechNova IT.
         </h2>
         <p className="text-sm sm:text-base md:text-lg lg:text-xl mb-10">
           Few companies match the benefits we bring to your business.

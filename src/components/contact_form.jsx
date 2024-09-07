@@ -59,20 +59,24 @@ const ContactForm = () => {
           <div className="text-xl flex items-center mb-4">
             <i className="fas fa-map-marker-alt text-blue-500 mr-4 fa-2x"></i>
             <span>
-              <span className="font-bold">927 NW 130TH Ter,</span>
-              <br></br>Sunrise, Florida 33325
+              <span className="font-bold">1 FAIRFAX RD EGG HARBOR TWP,</span>
+              <br></br>
+              <span className="font-bold">New Jersey, USA 08234</span>
             </span>
           </div>
           <div className="text-xl flex items-center mb-4">
             <i className="fas fa-mobile-alt text-blue-500 mr-4 fa-2x"></i>
             <a href="tel:+16504885152" className="text-blue-500">
-              <span className="font-bold">(650) 488-5152</span>
+              <span className="font-bold">+1 (201) 619-5952</span>
             </a>
           </div>
           <div className="text-xl flex items-center">
             <i className="fas fa-envelope text-blue-500 mr-4 fa-2x"></i>
-            <a href="mailto:info@mcb-solutions.com" className="text-blue-500">
-              Info@tstechgeeks.us
+            <a
+              href="mailto:info@mcb-solutions.com"
+              className="text-blue-500 font-bold"
+            >
+              sales@technovait.us
             </a>
           </div>
           <div className="mt-5">Contact us for more information.</div>
