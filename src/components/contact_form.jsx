@@ -59,9 +59,13 @@ const ContactForm = () => {
           <div className="text-xl flex items-center mb-4">
             <i className="fas fa-map-marker-alt text-blue-500 mr-4 fa-2x"></i>
             <span>
-              <span className="font-bold">1 FAIRFAX RD EGG HARBOR TWP,</span>
-              <br></br>
-              <span className="font-bold">New Jersey, USA 08234</span>
+              <span className="font-bold text-base sm:text-lg md:text-lg">
+                1 Fairfax Rd, Egg Harbor Township,
+              </span>
+              <br />
+              <span className="font-bold text-base sm:text-lg md:text-lg">
+                New Jersey, United states 08234
+              </span>
             </span>
           </div>
           <div className="text-xl flex items-center mb-4">
